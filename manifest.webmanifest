@@ -1,0 +1,26 @@
+{
+  "name": "Empire Majestic Lodge",
+  "short_name": "Empire",
+  "description": "Empire Majestic Lodge: An adult retreat designed around your pace",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#eef2fb",
+  "theme_color": "#2455a4",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
