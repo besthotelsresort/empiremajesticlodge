@@ -1,0 +1,2 @@
+# empiremajesticlodge
+Static site: empiremajesticlodge
